@@ -1,0 +1,19 @@
+- Là một vị khách
+Tôi muốn thấy tìm kiếm món ăn hoặc nhà hàng
+Để có thể dễ dàng thấy được món ăn hoặc nhà hàng mong muốn
+Điều kiện:
+ +  Điền tên món ăn hoặc nhà hàng cần tìm vào ô tìm kiếm
+ +  Ấn nút tìm kiếm
+ +  Sau đó màn hình sẽ hiển thị món ăn hoặc nhà hàng bạn tìm kiếm
+- Là một vị khách
+Tôi muốn xem các loại món ăn có những món ăn gì
+Để có thể dễ dàng thấy được các món ăn trong từng loại món ăn
+Điều kiên:
+ +  Lựa chọn một loại món ăn và bấm vào nó
+ +  Sau đó màn hình sẽ hiển thị món ăn theo loại món ăn đó
+- Là một vị khách
+Tôi muốn có thể xem các nhà hàng có những món ăn gì
+Để có thể dễ dàng thấy được các món ăn trong từng nhà hàng
+Điều kiện:
+ +  Lựa chọn một nhà hàng và bấm vào nó
+ +  Sau đó màn hình sẽ hiển thị món ăn trong nhà hàng đó   
