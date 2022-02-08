@@ -1,0 +1,1 @@
+Đây là hình ảnh tạo thành công Account AWS, thêm user group và user
